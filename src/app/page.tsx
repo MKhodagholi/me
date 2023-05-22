@@ -41,7 +41,7 @@ export default function Home() {
 
   return (
     <main className="flex flex-col w-screen p-20">
-      <div className="flex items-center">
+      {/* <div className="flex items-center">
         <h4 className="my-10 ml-12 text-green-400">
           فعلا معلوم نیست اینجا چه خبر باشه
         </h4>
@@ -53,7 +53,7 @@ export default function Home() {
       <p className="my-8">
         برای شنیدن بیشتر به سایت <a href="https://vmusic.ir" target="_blank" className="text-purple-400">والا موزیک</a>{" "}
         مراجعه کنید
-      </p>
+      </p> */}
     </main>
   );
 }
